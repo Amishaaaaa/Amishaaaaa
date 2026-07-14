@@ -1,16 +1,24 @@
-## Hi there 👋
+![banner](banner.jpg)
 
-<!--
-**Amishaaaaa/Amishaaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋‍🔭♀️ Introducing Myself
 
-Here are some ideas to get you started:
+Hello, I'm Amisha. A developer with a growing focus on Python, SQL, and AI/ML, alongside strong fundamentals in data structures & algorithms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Writing and solving problems using Python and C++
+- Querying and working with data using SQL
+- Exploring AI & machine learning concepts and projects
+- Building end-to-end projects, including cross-generational knowledge sharing tools
+
+## 📚 Projects
+
+Welcome to my portfolio, where I showcase my projects.
+
+## 🛠️ Tools
+
+- Language: Python, SQL, C++
+- Focus areas: AI & Machine Learning, Data Structures & Algorithms
+
+## 👋 Connect with Me
+
+- Email: amishakumari485@gmail.com
+- GitHub: [@Amishaaaaa](https://github.com/Amishaaaaa)
