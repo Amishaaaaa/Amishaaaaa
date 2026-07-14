@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 400" width="1600" height="400">
   <defs>
     <radialGradient id="bg" cx="50%" cy="40%" r="75%">
-      <stop offset="0%" stop-color="#0d1224"/>
+      <stop offset="0%" stop-color="#101832"/>
       <stop offset="100%" stop-color="#05070f"/>
     </radialGradient>
-    <filter id="glow" x="-200%" y="-200%" width="500%" height="500%">
-      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+    <filter id="glow" x="-300%" y="-300%" width="700%" height="700%">
+      <feGaussianBlur stdDeviation="2.8" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
@@ -24,406 +24,799 @@
   </defs>
 
   <rect x="0" y="0" width="1600" height="400" fill="url(#bg)"/>
-  <line x1="479.4" y1="98.8" x2="479.1" y2="54.3" stroke="#9aa4d6" stroke-width="0.8" opacity="0.14">
-    <animate attributeName="opacity" values="0.14;0.32;0.14" dur="6.37s" begin="1.09s" repeatCount="indefinite"/>
+  <line x1="56.6" y1="351.1" x2="64.4" y2="330.8" stroke="#a9b4e8" stroke-width="0.9" opacity="0.19">
+    <animate attributeName="opacity" values="0.19;0.44;0.19" dur="6.44s" begin="2.93s" repeatCount="indefinite"/>
   </line>
-  <line x1="907.7" y1="323.9" x2="947.1" y2="313.2" stroke="#9aa4d6" stroke-width="0.8" opacity="0.18">
-    <animate attributeName="opacity" values="0.18;0.47;0.18" dur="4.09s" begin="0.61s" repeatCount="indefinite"/>
+  <line x1="56.6" y1="351.1" x2="37.3" y2="282.3" stroke="#a9b4e8" stroke-width="0.9" opacity="0.23">
+    <animate attributeName="opacity" values="0.23;0.43;0.23" dur="4.46s" begin="2.73s" repeatCount="indefinite"/>
   </line>
-  <line x1="907.7" y1="323.9" x2="906.8" y2="340.3" stroke="#9aa4d6" stroke-width="0.8" opacity="0.19">
-    <animate attributeName="opacity" values="0.19;0.46;0.19" dur="6.02s" begin="1.44s" repeatCount="indefinite"/>
+  <line x1="56.6" y1="351.1" x2="75.3" y2="309.8" stroke="#a9b4e8" stroke-width="0.9" opacity="0.2">
+    <animate attributeName="opacity" values="0.2;0.45;0.2" dur="3.75s" begin="1.32s" repeatCount="indefinite"/>
   </line>
-  <line x1="947.1" y1="313.2" x2="906.8" y2="340.3" stroke="#9aa4d6" stroke-width="0.8" opacity="0.21">
-    <animate attributeName="opacity" values="0.21;0.48;0.21" dur="3.75s" begin="1.98s" repeatCount="indefinite"/>
+  <line x1="56.6" y1="351.1" x2="77.9" y2="288.3" stroke="#a9b4e8" stroke-width="0.9" opacity="0.22">
+    <animate attributeName="opacity" values="0.22;0.39;0.22" dur="4.96s" begin="0.09s" repeatCount="indefinite"/>
   </line>
-  <line x1="912.1" y1="62.6" x2="904.9" y2="109.5" stroke="#9aa4d6" stroke-width="0.8" opacity="0.14">
-    <animate attributeName="opacity" values="0.14;0.41;0.14" dur="5.75s" begin="1.43s" repeatCount="indefinite"/>
+  <line x1="56.6" y1="351.1" x2="12.0" y2="277.3" stroke="#a9b4e8" stroke-width="0.9" opacity="0.17">
+    <animate attributeName="opacity" values="0.17;0.42;0.17" dur="5.9s" begin="0.52s" repeatCount="indefinite"/>
   </line>
-  <line x1="912.1" y1="62.6" x2="964.7" y2="92.5" stroke="#9aa4d6" stroke-width="0.8" opacity="0.22">
-    <animate attributeName="opacity" values="0.22;0.43;0.22" dur="4.5s" begin="2.4s" repeatCount="indefinite"/>
+  <line x1="64.4" y1="330.8" x2="37.3" y2="282.3" stroke="#a9b4e8" stroke-width="0.9" opacity="0.19">
+    <animate attributeName="opacity" values="0.19;0.44;0.19" dur="3.92s" begin="0.45s" repeatCount="indefinite"/>
   </line>
-  <line x1="904.9" y1="109.5" x2="964.7" y2="92.5" stroke="#9aa4d6" stroke-width="0.8" opacity="0.19">
-    <animate attributeName="opacity" values="0.19;0.37;0.19" dur="4.7s" begin="2.84s" repeatCount="indefinite"/>
+  <line x1="64.4" y1="330.8" x2="75.3" y2="309.8" stroke="#a9b4e8" stroke-width="0.9" opacity="0.23">
+    <animate attributeName="opacity" values="0.23;0.45;0.23" dur="6.02s" begin="2.07s" repeatCount="indefinite"/>
   </line>
-  <line x1="1098.0" y1="70.7" x2="1161.7" y2="10.0" stroke="#9aa4d6" stroke-width="0.8" opacity="0.21">
-    <animate attributeName="opacity" values="0.21;0.48;0.21" dur="3.88s" begin="0.45s" repeatCount="indefinite"/>
+  <line x1="64.4" y1="330.8" x2="77.9" y2="288.3" stroke="#a9b4e8" stroke-width="0.9" opacity="0.16">
+    <animate attributeName="opacity" values="0.16;0.38;0.16" dur="6.35s" begin="0.26s" repeatCount="indefinite"/>
   </line>
-  <line x1="1098.0" y1="70.7" x2="1072.4" y2="76.6" stroke="#9aa4d6" stroke-width="0.8" opacity="0.22">
-    <animate attributeName="opacity" values="0.22;0.47;0.22" dur="3.94s" begin="2.48s" repeatCount="indefinite"/>
+  <line x1="64.4" y1="330.8" x2="12.0" y2="277.3" stroke="#a9b4e8" stroke-width="0.9" opacity="0.2">
+    <animate attributeName="opacity" values="0.2;0.42;0.2" dur="4.37s" begin="2.19s" repeatCount="indefinite"/>
   </line>
-  <line x1="1098.0" y1="70.7" x2="1118.1" y2="59.7" stroke="#9aa4d6" stroke-width="0.8" opacity="0.13">
-    <animate attributeName="opacity" values="0.13;0.28;0.13" dur="4.55s" begin="1.65s" repeatCount="indefinite"/>
+  <line x1="37.3" y1="282.3" x2="75.3" y2="309.8" stroke="#a9b4e8" stroke-width="0.9" opacity="0.17">
+    <animate attributeName="opacity" values="0.17;0.38;0.17" dur="6.03s" begin="1.68s" repeatCount="indefinite"/>
   </line>
-  <line x1="1098.0" y1="70.7" x2="1073.5" y2="32.9" stroke="#9aa4d6" stroke-width="0.8" opacity="0.17">
-    <animate attributeName="opacity" values="0.17;0.46;0.17" dur="6.41s" begin="1.95s" repeatCount="indefinite"/>
+  <line x1="37.3" y1="282.3" x2="77.9" y2="288.3" stroke="#a9b4e8" stroke-width="0.9" opacity="0.16">
+    <animate attributeName="opacity" values="0.16;0.42;0.16" dur="6.04s" begin="2.7s" repeatCount="indefinite"/>
   </line>
-  <line x1="1161.7" y1="10.0" x2="1118.1" y2="59.7" stroke="#9aa4d6" stroke-width="0.8" opacity="0.2">
-    <animate attributeName="opacity" values="0.2;0.38;0.2" dur="4.8s" begin="2.62s" repeatCount="indefinite"/>
+  <line x1="37.3" y1="282.3" x2="12.0" y2="277.3" stroke="#a9b4e8" stroke-width="0.9" opacity="0.2">
+    <animate attributeName="opacity" values="0.2;0.38;0.2" dur="6.41s" begin="1.57s" repeatCount="indefinite"/>
   </line>
-  <line x1="1161.7" y1="10.0" x2="1073.5" y2="32.9" stroke="#9aa4d6" stroke-width="0.8" opacity="0.14">
-    <animate attributeName="opacity" values="0.14;0.38;0.14" dur="4.26s" begin="0.88s" repeatCount="indefinite"/>
+  <line x1="75.3" y1="309.8" x2="77.9" y2="288.3" stroke="#a9b4e8" stroke-width="0.9" opacity="0.2">
+    <animate attributeName="opacity" values="0.2;0.36;0.2" dur="5.11s" begin="1.51s" repeatCount="indefinite"/>
   </line>
-  <line x1="1072.4" y1="76.6" x2="1118.1" y2="59.7" stroke="#9aa4d6" stroke-width="0.8" opacity="0.13">
-    <animate attributeName="opacity" values="0.13;0.42;0.13" dur="4.28s" begin="1.26s" repeatCount="indefinite"/>
+  <line x1="75.3" y1="309.8" x2="12.0" y2="277.3" stroke="#a9b4e8" stroke-width="0.9" opacity="0.18">
+    <animate attributeName="opacity" values="0.18;0.44;0.18" dur="6.41s" begin="1.55s" repeatCount="indefinite"/>
   </line>
-  <line x1="1072.4" y1="76.6" x2="1073.5" y2="32.9" stroke="#9aa4d6" stroke-width="0.8" opacity="0.18">
-    <animate attributeName="opacity" values="0.18;0.47;0.18" dur="4.56s" begin="1.37s" repeatCount="indefinite"/>
+  <line x1="77.9" y1="288.3" x2="12.0" y2="277.3" stroke="#a9b4e8" stroke-width="0.9" opacity="0.21">
+    <animate attributeName="opacity" values="0.21;0.38;0.21" dur="5.19s" begin="1.47s" repeatCount="indefinite"/>
   </line>
-  <line x1="1118.1" y1="59.7" x2="1073.5" y2="32.9" stroke="#9aa4d6" stroke-width="0.8" opacity="0.17">
-    <animate attributeName="opacity" values="0.17;0.4;0.17" dur="4.76s" begin="2.75s" repeatCount="indefinite"/>
+  <line x1="224.7" y1="57.0" x2="168.3" y2="58.3" stroke="#a9b4e8" stroke-width="0.9" opacity="0.24">
+    <animate attributeName="opacity" values="0.24;0.51;0.24" dur="5.12s" begin="1.24s" repeatCount="indefinite"/>
   </line>
-  <line x1="137.0" y1="61.1" x2="182.5" y2="57.8" stroke="#9aa4d6" stroke-width="0.8" opacity="0.16">
-    <animate attributeName="opacity" values="0.16;0.34;0.16" dur="5.07s" begin="0.06s" repeatCount="indefinite"/>
+  <line x1="224.7" y1="57.0" x2="286.7" y2="75.0" stroke="#a9b4e8" stroke-width="0.9" opacity="0.15">
+    <animate attributeName="opacity" values="0.15;0.36;0.15" dur="4.31s" begin="1.42s" repeatCount="indefinite"/>
   </line>
-  <line x1="137.0" y1="61.1" x2="178.3" y2="52.1" stroke="#9aa4d6" stroke-width="0.8" opacity="0.14">
-    <animate attributeName="opacity" values="0.14;0.36;0.14" dur="3.51s" begin="2.4s" repeatCount="indefinite"/>
+  <line x1="224.7" y1="57.0" x2="255.8" y2="45.6" stroke="#a9b4e8" stroke-width="0.9" opacity="0.19">
+    <animate attributeName="opacity" values="0.19;0.39;0.19" dur="5.95s" begin="2.7s" repeatCount="indefinite"/>
   </line>
-  <line x1="182.5" y1="57.8" x2="178.3" y2="52.1" stroke="#9aa4d6" stroke-width="0.8" opacity="0.15">
-    <animate attributeName="opacity" values="0.15;0.38;0.15" dur="5.68s" begin="1.67s" repeatCount="indefinite"/>
+  <line x1="168.3" y1="58.3" x2="286.7" y2="75.0" stroke="#a9b4e8" stroke-width="0.9" opacity="0.23">
+    <animate attributeName="opacity" values="0.23;0.41;0.23" dur="4.07s" begin="1.85s" repeatCount="indefinite"/>
   </line>
-  <line x1="1182.7" y1="130.5" x2="1189.9" y2="93.7" stroke="#9aa4d6" stroke-width="0.8" opacity="0.13">
-    <animate attributeName="opacity" values="0.13;0.36;0.13" dur="5.17s" begin="2.35s" repeatCount="indefinite"/>
+  <line x1="168.3" y1="58.3" x2="255.8" y2="45.6" stroke="#a9b4e8" stroke-width="0.9" opacity="0.16">
+    <animate attributeName="opacity" values="0.16;0.35;0.16" dur="5.84s" begin="0.07s" repeatCount="indefinite"/>
   </line>
-  <line x1="1182.7" y1="130.5" x2="1247.9" y2="66.6" stroke="#9aa4d6" stroke-width="0.8" opacity="0.2">
-    <animate attributeName="opacity" values="0.2;0.43;0.2" dur="4.25s" begin="0.83s" repeatCount="indefinite"/>
+  <line x1="286.7" y1="75.0" x2="255.8" y2="45.6" stroke="#a9b4e8" stroke-width="0.9" opacity="0.18">
+    <animate attributeName="opacity" values="0.18;0.41;0.18" dur="5.56s" begin="0.97s" repeatCount="indefinite"/>
   </line>
-  <line x1="1182.7" y1="130.5" x2="1222.6" y2="76.8" stroke="#9aa4d6" stroke-width="0.8" opacity="0.21">
-    <animate attributeName="opacity" values="0.21;0.43;0.21" dur="5.19s" begin="2.28s" repeatCount="indefinite"/>
+  <line x1="339.9" y1="109.4" x2="316.9" y2="105.1" stroke="#a9b4e8" stroke-width="0.9" opacity="0.15">
+    <animate attributeName="opacity" values="0.15;0.37;0.15" dur="3.81s" begin="2.19s" repeatCount="indefinite"/>
   </line>
-  <line x1="1189.9" y1="93.7" x2="1247.9" y2="66.6" stroke="#9aa4d6" stroke-width="0.8" opacity="0.17">
-    <animate attributeName="opacity" values="0.17;0.42;0.17" dur="5.34s" begin="1.52s" repeatCount="indefinite"/>
+  <line x1="339.9" y1="109.4" x2="381.8" y2="60.9" stroke="#a9b4e8" stroke-width="0.9" opacity="0.19">
+    <animate attributeName="opacity" values="0.19;0.4;0.19" dur="4.25s" begin="0.59s" repeatCount="indefinite"/>
   </line>
-  <line x1="1189.9" y1="93.7" x2="1222.6" y2="76.8" stroke="#9aa4d6" stroke-width="0.8" opacity="0.17">
-    <animate attributeName="opacity" values="0.17;0.46;0.17" dur="4.86s" begin="1.6s" repeatCount="indefinite"/>
+  <line x1="339.9" y1="109.4" x2="390.8" y2="47.4" stroke="#a9b4e8" stroke-width="0.9" opacity="0.19">
+    <animate attributeName="opacity" values="0.19;0.37;0.19" dur="4.63s" begin="1.24s" repeatCount="indefinite"/>
   </line>
-  <line x1="1247.9" y1="66.6" x2="1222.6" y2="76.8" stroke="#9aa4d6" stroke-width="0.8" opacity="0.21">
-    <animate attributeName="opacity" values="0.21;0.4;0.21" dur="5.6s" begin="2.63s" repeatCount="indefinite"/>
+  <line x1="339.9" y1="109.4" x2="291.6" y2="60.0" stroke="#a9b4e8" stroke-width="0.9" opacity="0.2">
+    <animate attributeName="opacity" values="0.2;0.42;0.2" dur="4.11s" begin="1.89s" repeatCount="indefinite"/>
   </line>
-  <line x1="252.5" y1="152.7" x2="251.4" y2="111.5" stroke="#9aa4d6" stroke-width="0.8" opacity="0.2">
-    <animate attributeName="opacity" values="0.2;0.37;0.2" dur="5.18s" begin="2.83s" repeatCount="indefinite"/>
+  <line x1="316.9" y1="105.1" x2="381.8" y2="60.9" stroke="#a9b4e8" stroke-width="0.9" opacity="0.23">
+    <animate attributeName="opacity" values="0.23;0.42;0.23" dur="6.05s" begin="1.84s" repeatCount="indefinite"/>
   </line>
-  <line x1="252.5" y1="152.7" x2="295.4" y2="82.1" stroke="#9aa4d6" stroke-width="0.8" opacity="0.13">
-    <animate attributeName="opacity" values="0.13;0.32;0.13" dur="3.86s" begin="1.33s" repeatCount="indefinite"/>
+  <line x1="316.9" y1="105.1" x2="390.8" y2="47.4" stroke="#a9b4e8" stroke-width="0.9" opacity="0.23">
+    <animate attributeName="opacity" values="0.23;0.43;0.23" dur="5.72s" begin="2.43s" repeatCount="indefinite"/>
   </line>
-  <line x1="251.4" y1="111.5" x2="295.4" y2="82.1" stroke="#9aa4d6" stroke-width="0.8" opacity="0.2">
-    <animate attributeName="opacity" values="0.2;0.48;0.2" dur="3.72s" begin="2.01s" repeatCount="indefinite"/>
+  <line x1="316.9" y1="105.1" x2="291.6" y2="60.0" stroke="#a9b4e8" stroke-width="0.9" opacity="0.16">
+    <animate attributeName="opacity" values="0.16;0.44;0.16" dur="4.44s" begin="2.77s" repeatCount="indefinite"/>
   </line>
-  <line x1="582.0" y1="61.2" x2="588.7" y2="114.5" stroke="#9aa4d6" stroke-width="0.8" opacity="0.19">
-    <animate attributeName="opacity" values="0.19;0.36;0.19" dur="3.96s" begin="2.15s" repeatCount="indefinite"/>
+  <line x1="381.8" y1="60.9" x2="390.8" y2="47.4" stroke="#a9b4e8" stroke-width="0.9" opacity="0.16">
+    <animate attributeName="opacity" values="0.16;0.41;0.16" dur="6.16s" begin="0.4s" repeatCount="indefinite"/>
   </line>
-  <line x1="582.0" y1="61.2" x2="594.5" y2="64.6" stroke="#9aa4d6" stroke-width="0.8" opacity="0.14">
-    <animate attributeName="opacity" values="0.14;0.43;0.14" dur="6.15s" begin="2.9s" repeatCount="indefinite"/>
+  <line x1="381.8" y1="60.9" x2="291.6" y2="60.0" stroke="#a9b4e8" stroke-width="0.9" opacity="0.22">
+    <animate attributeName="opacity" values="0.22;0.43;0.22" dur="4.28s" begin="0.29s" repeatCount="indefinite"/>
   </line>
-  <line x1="582.0" y1="61.2" x2="583.1" y2="75.3" stroke="#9aa4d6" stroke-width="0.8" opacity="0.22">
-    <animate attributeName="opacity" values="0.22;0.49;0.22" dur="4.69s" begin="1.46s" repeatCount="indefinite"/>
+  <line x1="390.8" y1="47.4" x2="291.6" y2="60.0" stroke="#a9b4e8" stroke-width="0.9" opacity="0.18">
+    <animate attributeName="opacity" values="0.18;0.42;0.18" dur="5.87s" begin="0.38s" repeatCount="indefinite"/>
   </line>
-  <line x1="582.0" y1="61.2" x2="608.6" y2="89.2" stroke="#9aa4d6" stroke-width="0.8" opacity="0.17">
-    <animate attributeName="opacity" values="0.17;0.37;0.17" dur="3.98s" begin="1.29s" repeatCount="indefinite"/>
+  <line x1="521.8" y1="14.5" x2="484.4" y2="87.2" stroke="#a9b4e8" stroke-width="0.9" opacity="0.21">
+    <animate attributeName="opacity" values="0.21;0.48;0.21" dur="3.55s" begin="0.6s" repeatCount="indefinite"/>
   </line>
-  <line x1="582.0" y1="61.2" x2="589.4" y2="103.3" stroke="#9aa4d6" stroke-width="0.8" opacity="0.19">
-    <animate attributeName="opacity" values="0.19;0.34;0.19" dur="4.09s" begin="0.96s" repeatCount="indefinite"/>
+  <line x1="521.8" y1="14.5" x2="468.1" y2="34.0" stroke="#a9b4e8" stroke-width="0.9" opacity="0.19">
+    <animate attributeName="opacity" values="0.19;0.44;0.19" dur="6.41s" begin="0.35s" repeatCount="indefinite"/>
   </line>
-  <line x1="588.7" y1="114.5" x2="594.5" y2="64.6" stroke="#9aa4d6" stroke-width="0.8" opacity="0.12">
-    <animate attributeName="opacity" values="0.12;0.32;0.12" dur="5.16s" begin="1.32s" repeatCount="indefinite"/>
+  <line x1="521.8" y1="14.5" x2="530.6" y2="86.2" stroke="#a9b4e8" stroke-width="0.9" opacity="0.16">
+    <animate attributeName="opacity" values="0.16;0.33;0.16" dur="5.01s" begin="2.06s" repeatCount="indefinite"/>
   </line>
-  <line x1="588.7" y1="114.5" x2="583.1" y2="75.3" stroke="#9aa4d6" stroke-width="0.8" opacity="0.13">
-    <animate attributeName="opacity" values="0.13;0.43;0.13" dur="5.37s" begin="1.54s" repeatCount="indefinite"/>
+  <line x1="521.8" y1="14.5" x2="533.3" y2="17.5" stroke="#a9b4e8" stroke-width="0.9" opacity="0.2">
+    <animate attributeName="opacity" values="0.2;0.42;0.2" dur="3.82s" begin="0.11s" repeatCount="indefinite"/>
   </line>
-  <line x1="588.7" y1="114.5" x2="608.6" y2="89.2" stroke="#9aa4d6" stroke-width="0.8" opacity="0.13">
-    <animate attributeName="opacity" values="0.13;0.32;0.13" dur="5.87s" begin="2.92s" repeatCount="indefinite"/>
+  <line x1="521.8" y1="14.5" x2="496.5" y2="50.4" stroke="#a9b4e8" stroke-width="0.9" opacity="0.16">
+    <animate attributeName="opacity" values="0.16;0.34;0.16" dur="5.21s" begin="0.44s" repeatCount="indefinite"/>
   </line>
-  <line x1="588.7" y1="114.5" x2="589.4" y2="103.3" stroke="#9aa4d6" stroke-width="0.8" opacity="0.15">
-    <animate attributeName="opacity" values="0.15;0.32;0.15" dur="3.62s" begin="2.34s" repeatCount="indefinite"/>
+  <line x1="484.4" y1="87.2" x2="468.1" y2="34.0" stroke="#a9b4e8" stroke-width="0.9" opacity="0.23">
+    <animate attributeName="opacity" values="0.23;0.4;0.23" dur="6.02s" begin="2.97s" repeatCount="indefinite"/>
   </line>
-  <line x1="594.5" y1="64.6" x2="583.1" y2="75.3" stroke="#9aa4d6" stroke-width="0.8" opacity="0.2">
-    <animate attributeName="opacity" values="0.2;0.39;0.2" dur="4.77s" begin="2.73s" repeatCount="indefinite"/>
+  <line x1="484.4" y1="87.2" x2="530.6" y2="86.2" stroke="#a9b4e8" stroke-width="0.9" opacity="0.19">
+    <animate attributeName="opacity" values="0.19;0.44;0.19" dur="3.69s" begin="2.85s" repeatCount="indefinite"/>
   </line>
-  <line x1="594.5" y1="64.6" x2="608.6" y2="89.2" stroke="#9aa4d6" stroke-width="0.8" opacity="0.18">
-    <animate attributeName="opacity" values="0.18;0.44;0.18" dur="3.95s" begin="2.76s" repeatCount="indefinite"/>
+  <line x1="484.4" y1="87.2" x2="533.3" y2="17.5" stroke="#a9b4e8" stroke-width="0.9" opacity="0.19">
+    <animate attributeName="opacity" values="0.19;0.4;0.19" dur="4.48s" begin="1.4s" repeatCount="indefinite"/>
   </line>
-  <line x1="594.5" y1="64.6" x2="589.4" y2="103.3" stroke="#9aa4d6" stroke-width="0.8" opacity="0.19">
-    <animate attributeName="opacity" values="0.19;0.4;0.19" dur="3.77s" begin="0.17s" repeatCount="indefinite"/>
+  <line x1="484.4" y1="87.2" x2="496.5" y2="50.4" stroke="#a9b4e8" stroke-width="0.9" opacity="0.21">
+    <animate attributeName="opacity" values="0.21;0.47;0.21" dur="5.3s" begin="0.04s" repeatCount="indefinite"/>
   </line>
-  <line x1="583.1" y1="75.3" x2="608.6" y2="89.2" stroke="#9aa4d6" stroke-width="0.8" opacity="0.18">
-    <animate attributeName="opacity" values="0.18;0.45;0.18" dur="3.72s" begin="2.82s" repeatCount="indefinite"/>
+  <line x1="468.1" y1="34.0" x2="530.6" y2="86.2" stroke="#a9b4e8" stroke-width="0.9" opacity="0.21">
+    <animate attributeName="opacity" values="0.21;0.42;0.21" dur="4.04s" begin="1.36s" repeatCount="indefinite"/>
   </line>
-  <line x1="583.1" y1="75.3" x2="589.4" y2="103.3" stroke="#9aa4d6" stroke-width="0.8" opacity="0.13">
-    <animate attributeName="opacity" values="0.13;0.41;0.13" dur="3.75s" begin="2.57s" repeatCount="indefinite"/>
+  <line x1="468.1" y1="34.0" x2="533.3" y2="17.5" stroke="#a9b4e8" stroke-width="0.9" opacity="0.19">
+    <animate attributeName="opacity" values="0.19;0.35;0.19" dur="4.09s" begin="0.5s" repeatCount="indefinite"/>
   </line>
-  <line x1="608.6" y1="89.2" x2="589.4" y2="103.3" stroke="#9aa4d6" stroke-width="0.8" opacity="0.18">
-    <animate attributeName="opacity" values="0.18;0.47;0.18" dur="4.86s" begin="1.02s" repeatCount="indefinite"/>
+  <line x1="468.1" y1="34.0" x2="496.5" y2="50.4" stroke="#a9b4e8" stroke-width="0.9" opacity="0.21">
+    <animate attributeName="opacity" values="0.21;0.47;0.21" dur="6.18s" begin="2.41s" repeatCount="indefinite"/>
   </line>
-  <line x1="555.2" y1="91.1" x2="480.3" y2="138.4" stroke="#9aa4d6" stroke-width="0.8" opacity="0.17">
-    <animate attributeName="opacity" values="0.17;0.36;0.17" dur="4.3s" begin="0.39s" repeatCount="indefinite"/>
+  <line x1="530.6" y1="86.2" x2="533.3" y2="17.5" stroke="#a9b4e8" stroke-width="0.9" opacity="0.2">
+    <animate attributeName="opacity" values="0.2;0.42;0.2" dur="5.39s" begin="1.21s" repeatCount="indefinite"/>
   </line>
-  <line x1="555.2" y1="91.1" x2="527.6" y2="45.9" stroke="#9aa4d6" stroke-width="0.8" opacity="0.13">
-    <animate attributeName="opacity" values="0.13;0.31;0.13" dur="3.83s" begin="0.48s" repeatCount="indefinite"/>
+  <line x1="530.6" y1="86.2" x2="496.5" y2="50.4" stroke="#a9b4e8" stroke-width="0.9" opacity="0.17">
+    <animate attributeName="opacity" values="0.17;0.44;0.17" dur="6.45s" begin="2.41s" repeatCount="indefinite"/>
   </line>
-  <line x1="555.2" y1="91.1" x2="572.4" y2="112.9" stroke="#9aa4d6" stroke-width="0.8" opacity="0.2">
-    <animate attributeName="opacity" values="0.2;0.39;0.2" dur="4.44s" begin="0.92s" repeatCount="indefinite"/>
+  <line x1="533.3" y1="17.5" x2="496.5" y2="50.4" stroke="#a9b4e8" stroke-width="0.9" opacity="0.22">
+    <animate attributeName="opacity" values="0.22;0.43;0.22" dur="5.73s" begin="2.33s" repeatCount="indefinite"/>
   </line>
-  <line x1="555.2" y1="91.1" x2="578.7" y2="78.8" stroke="#9aa4d6" stroke-width="0.8" opacity="0.15">
-    <animate attributeName="opacity" values="0.15;0.3;0.15" dur="5.0s" begin="0.53s" repeatCount="indefinite"/>
+  <line x1="620.0" y1="14.8" x2="587.8" y2="12.0" stroke="#a9b4e8" stroke-width="0.9" opacity="0.21">
+    <animate attributeName="opacity" values="0.21;0.46;0.21" dur="6.19s" begin="2.64s" repeatCount="indefinite"/>
   </line>
-  <line x1="480.3" y1="138.4" x2="527.6" y2="45.9" stroke="#9aa4d6" stroke-width="0.8" opacity="0.19">
-    <animate attributeName="opacity" values="0.19;0.42;0.19" dur="4.25s" begin="0.05s" repeatCount="indefinite"/>
+  <line x1="620.0" y1="14.8" x2="592.9" y2="12.0" stroke="#a9b4e8" stroke-width="0.9" opacity="0.21">
+    <animate attributeName="opacity" values="0.21;0.38;0.21" dur="5.8s" begin="1.22s" repeatCount="indefinite"/>
   </line>
-  <line x1="480.3" y1="138.4" x2="572.4" y2="112.9" stroke="#9aa4d6" stroke-width="0.8" opacity="0.21">
-    <animate attributeName="opacity" values="0.21;0.38;0.21" dur="4.07s" begin="1.42s" repeatCount="indefinite"/>
+  <line x1="620.0" y1="14.8" x2="586.8" y2="58.0" stroke="#a9b4e8" stroke-width="0.9" opacity="0.14">
+    <animate attributeName="opacity" values="0.14;0.34;0.14" dur="4.53s" begin="1.41s" repeatCount="indefinite"/>
   </line>
-  <line x1="527.6" y1="45.9" x2="572.4" y2="112.9" stroke="#9aa4d6" stroke-width="0.8" opacity="0.17">
-    <animate attributeName="opacity" values="0.17;0.45;0.17" dur="5.96s" begin="1.3s" repeatCount="indefinite"/>
+  <line x1="620.0" y1="14.8" x2="552.5" y2="12.0" stroke="#a9b4e8" stroke-width="0.9" opacity="0.16">
+    <animate attributeName="opacity" values="0.16;0.43;0.16" dur="5.42s" begin="1.87s" repeatCount="indefinite"/>
   </line>
-  <line x1="527.6" y1="45.9" x2="578.7" y2="78.8" stroke="#9aa4d6" stroke-width="0.8" opacity="0.19">
-    <animate attributeName="opacity" values="0.19;0.49;0.19" dur="4.68s" begin="1.52s" repeatCount="indefinite"/>
+  <line x1="587.8" y1="12.0" x2="592.9" y2="12.0" stroke="#a9b4e8" stroke-width="0.9" opacity="0.21">
+    <animate attributeName="opacity" values="0.21;0.44;0.21" dur="5.5s" begin="1.01s" repeatCount="indefinite"/>
   </line>
-  <line x1="572.4" y1="112.9" x2="578.7" y2="78.8" stroke="#9aa4d6" stroke-width="0.8" opacity="0.19">
-    <animate attributeName="opacity" values="0.19;0.44;0.19" dur="4.53s" begin="2.5s" repeatCount="indefinite"/>
+  <line x1="587.8" y1="12.0" x2="586.8" y2="58.0" stroke="#a9b4e8" stroke-width="0.9" opacity="0.24">
+    <animate attributeName="opacity" values="0.24;0.48;0.24" dur="5.1s" begin="1.17s" repeatCount="indefinite"/>
   </line>
-  <line x1="480.3" y1="138.4" x2="252.5" y2="152.7" stroke="#9aa4d6" stroke-width="0.8" opacity="0.13">
-    <animate attributeName="opacity" values="0.13;0.3;0.13" dur="4.71s" begin="1.04s" repeatCount="indefinite"/>
+  <line x1="587.8" y1="12.0" x2="552.5" y2="12.0" stroke="#a9b4e8" stroke-width="0.9" opacity="0.24">
+    <animate attributeName="opacity" values="0.24;0.4;0.24" dur="5.6s" begin="2.29s" repeatCount="indefinite"/>
   </line>
-  <line x1="137.0" y1="61.1" x2="1118.1" y2="59.7" stroke="#9aa4d6" stroke-width="0.8" opacity="0.15">
-    <animate attributeName="opacity" values="0.15;0.32;0.15" dur="3.71s" begin="2.22s" repeatCount="indefinite"/>
+  <line x1="592.9" y1="12.0" x2="586.8" y2="58.0" stroke="#a9b4e8" stroke-width="0.9" opacity="0.17">
+    <animate attributeName="opacity" values="0.17;0.38;0.17" dur="5.35s" begin="2.22s" repeatCount="indefinite"/>
   </line>
-  <line x1="182.5" y1="57.8" x2="582.0" y2="61.2" stroke="#9aa4d6" stroke-width="0.8" opacity="0.21">
-    <animate attributeName="opacity" values="0.21;0.46;0.21" dur="3.75s" begin="2.52s" repeatCount="indefinite"/>
+  <line x1="592.9" y1="12.0" x2="552.5" y2="12.0" stroke="#a9b4e8" stroke-width="0.9" opacity="0.18">
+    <animate attributeName="opacity" values="0.18;0.35;0.18" dur="3.65s" begin="0.59s" repeatCount="indefinite"/>
   </line>
-  <line x1="137.0" y1="61.1" x2="1118.1" y2="59.7" stroke="#9aa4d6" stroke-width="0.8" opacity="0.15">
-    <animate attributeName="opacity" values="0.15;0.37;0.15" dur="4.35s" begin="0.73s" repeatCount="indefinite"/>
+  <line x1="586.8" y1="58.0" x2="552.5" y2="12.0" stroke="#a9b4e8" stroke-width="0.9" opacity="0.2">
+    <animate attributeName="opacity" values="0.2;0.42;0.2" dur="4.25s" begin="2.72s" repeatCount="indefinite"/>
   </line>
-  <line x1="527.6" y1="45.9" x2="555.2" y2="91.1" stroke="#9aa4d6" stroke-width="0.8" opacity="0.15">
-    <animate attributeName="opacity" values="0.15;0.44;0.15" dur="3.97s" begin="1.34s" repeatCount="indefinite"/>
+  <line x1="732.8" y1="364.9" x2="698.3" y2="339.3" stroke="#a9b4e8" stroke-width="0.9" opacity="0.24">
+    <animate attributeName="opacity" values="0.24;0.48;0.24" dur="6.4s" begin="1.7s" repeatCount="indefinite"/>
   </line>
-  <line x1="251.4" y1="111.5" x2="596.6" y2="66.7" stroke="#9aa4d6" stroke-width="0.8" opacity="0.14">
-    <animate attributeName="opacity" values="0.14;0.43;0.14" dur="6.42s" begin="1.64s" repeatCount="indefinite"/>
+  <line x1="732.8" y1="364.9" x2="676.7" y2="388.0" stroke="#a9b4e8" stroke-width="0.9" opacity="0.2">
+    <animate attributeName="opacity" values="0.2;0.45;0.2" dur="5.93s" begin="0.23s" repeatCount="indefinite"/>
   </line>
-  <line x1="596.6" y1="66.7" x2="1182.7" y2="130.5" stroke="#9aa4d6" stroke-width="0.8" opacity="0.12">
-    <animate attributeName="opacity" values="0.12;0.33;0.12" dur="4.43s" begin="1.07s" repeatCount="indefinite"/>
+  <line x1="732.8" y1="364.9" x2="750.6" y2="383.7" stroke="#a9b4e8" stroke-width="0.9" opacity="0.16">
+    <animate attributeName="opacity" values="0.16;0.38;0.16" dur="3.64s" begin="2.79s" repeatCount="indefinite"/>
   </line>
-  <line x1="589.4" y1="103.3" x2="178.3" y2="52.1" stroke="#9aa4d6" stroke-width="0.8" opacity="0.14">
-    <animate attributeName="opacity" values="0.14;0.37;0.14" dur="4.92s" begin="1.51s" repeatCount="indefinite"/>
+  <line x1="698.3" y1="339.3" x2="676.7" y2="388.0" stroke="#a9b4e8" stroke-width="0.9" opacity="0.2">
+    <animate attributeName="opacity" values="0.2;0.37;0.2" dur="4.01s" begin="1.49s" repeatCount="indefinite"/>
   </line>
-  <line x1="1118.1" y1="59.7" x2="251.4" y2="111.5" stroke="#9aa4d6" stroke-width="0.8" opacity="0.13">
-    <animate attributeName="opacity" values="0.13;0.34;0.13" dur="3.51s" begin="0.79s" repeatCount="indefinite"/>
+  <line x1="698.3" y1="339.3" x2="750.6" y2="383.7" stroke="#a9b4e8" stroke-width="0.9" opacity="0.19">
+    <animate attributeName="opacity" values="0.19;0.42;0.19" dur="6.34s" begin="1.26s" repeatCount="indefinite"/>
   </line>
-  <line x1="583.1" y1="75.3" x2="251.4" y2="111.5" stroke="#9aa4d6" stroke-width="0.8" opacity="0.15">
-    <animate attributeName="opacity" values="0.15;0.33;0.15" dur="3.63s" begin="0.07s" repeatCount="indefinite"/>
+  <line x1="676.7" y1="388.0" x2="750.6" y2="383.7" stroke="#a9b4e8" stroke-width="0.9" opacity="0.21">
+    <animate attributeName="opacity" values="0.21;0.44;0.21" dur="4.6s" begin="0.86s" repeatCount="indefinite"/>
   </line>
-  <g transform="translate(479.4,98.8)">
-    <circle r="3.0" fill="#a78bfa" filter="url(#glow)">
-      <animateTransform attributeName="transform" type="translate" values="0,0; 3.0,1.9; 2.6,4.5; 0,0" dur="6.34s" begin="2.12s" repeatCount="indefinite"/>
-      <animate attributeName="r" values="3.0;4.2;3.0" dur="3.80s" begin="2.12s" repeatCount="indefinite"/>
+  <line x1="865.7" y1="358.0" x2="872.4" y2="388.0" stroke="#a9b4e8" stroke-width="0.9" opacity="0.17">
+    <animate attributeName="opacity" values="0.17;0.33;0.17" dur="4.35s" begin="2.15s" repeatCount="indefinite"/>
+  </line>
+  <line x1="865.7" y1="358.0" x2="845.0" y2="344.7" stroke="#a9b4e8" stroke-width="0.9" opacity="0.16">
+    <animate attributeName="opacity" values="0.16;0.41;0.16" dur="4.24s" begin="0.13s" repeatCount="indefinite"/>
+  </line>
+  <line x1="865.7" y1="358.0" x2="858.9" y2="340.9" stroke="#a9b4e8" stroke-width="0.9" opacity="0.21">
+    <animate attributeName="opacity" values="0.21;0.38;0.21" dur="4.67s" begin="2.69s" repeatCount="indefinite"/>
+  </line>
+  <line x1="872.4" y1="388.0" x2="845.0" y2="344.7" stroke="#a9b4e8" stroke-width="0.9" opacity="0.15">
+    <animate attributeName="opacity" values="0.15;0.42;0.15" dur="6.47s" begin="2.83s" repeatCount="indefinite"/>
+  </line>
+  <line x1="872.4" y1="388.0" x2="858.9" y2="340.9" stroke="#a9b4e8" stroke-width="0.9" opacity="0.24">
+    <animate attributeName="opacity" values="0.24;0.43;0.24" dur="4.79s" begin="1.43s" repeatCount="indefinite"/>
+  </line>
+  <line x1="845.0" y1="344.7" x2="858.9" y2="340.9" stroke="#a9b4e8" stroke-width="0.9" opacity="0.21">
+    <animate attributeName="opacity" values="0.21;0.43;0.21" dur="5.07s" begin="2.81s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1029.8" y1="98.4" x2="1025.5" y2="92.4" stroke="#a9b4e8" stroke-width="0.9" opacity="0.2">
+    <animate attributeName="opacity" values="0.2;0.37;0.2" dur="6.44s" begin="2.45s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1029.8" y1="98.4" x2="948.8" y2="67.4" stroke="#a9b4e8" stroke-width="0.9" opacity="0.16">
+    <animate attributeName="opacity" values="0.16;0.33;0.16" dur="5.37s" begin="1.37s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1029.8" y1="98.4" x2="985.1" y2="82.7" stroke="#a9b4e8" stroke-width="0.9" opacity="0.18">
+    <animate attributeName="opacity" values="0.18;0.42;0.18" dur="5.08s" begin="0.37s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1029.8" y1="98.4" x2="998.2" y2="120.3" stroke="#a9b4e8" stroke-width="0.9" opacity="0.2">
+    <animate attributeName="opacity" values="0.2;0.41;0.2" dur="4.87s" begin="0.79s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1025.5" y1="92.4" x2="948.8" y2="67.4" stroke="#a9b4e8" stroke-width="0.9" opacity="0.24">
+    <animate attributeName="opacity" values="0.24;0.51;0.24" dur="5.83s" begin="1.59s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1025.5" y1="92.4" x2="985.1" y2="82.7" stroke="#a9b4e8" stroke-width="0.9" opacity="0.15">
+    <animate attributeName="opacity" values="0.15;0.42;0.15" dur="5.7s" begin="0.72s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1025.5" y1="92.4" x2="920.1" y2="45.8" stroke="#a9b4e8" stroke-width="0.9" opacity="0.18">
+    <animate attributeName="opacity" values="0.18;0.37;0.18" dur="5.85s" begin="1.87s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1025.5" y1="92.4" x2="998.2" y2="120.3" stroke="#a9b4e8" stroke-width="0.9" opacity="0.2">
+    <animate attributeName="opacity" values="0.2;0.44;0.2" dur="5.56s" begin="1.69s" repeatCount="indefinite"/>
+  </line>
+  <line x1="948.8" y1="67.4" x2="985.1" y2="82.7" stroke="#a9b4e8" stroke-width="0.9" opacity="0.16">
+    <animate attributeName="opacity" values="0.16;0.44;0.16" dur="5.76s" begin="0.57s" repeatCount="indefinite"/>
+  </line>
+  <line x1="948.8" y1="67.4" x2="920.1" y2="45.8" stroke="#a9b4e8" stroke-width="0.9" opacity="0.14">
+    <animate attributeName="opacity" values="0.14;0.31;0.14" dur="6.25s" begin="2.64s" repeatCount="indefinite"/>
+  </line>
+  <line x1="948.8" y1="67.4" x2="998.2" y2="120.3" stroke="#a9b4e8" stroke-width="0.9" opacity="0.2">
+    <animate attributeName="opacity" values="0.2;0.37;0.2" dur="4.31s" begin="1.28s" repeatCount="indefinite"/>
+  </line>
+  <line x1="985.1" y1="82.7" x2="920.1" y2="45.8" stroke="#a9b4e8" stroke-width="0.9" opacity="0.15">
+    <animate attributeName="opacity" values="0.15;0.39;0.15" dur="5.12s" begin="0.22s" repeatCount="indefinite"/>
+  </line>
+  <line x1="985.1" y1="82.7" x2="998.2" y2="120.3" stroke="#a9b4e8" stroke-width="0.9" opacity="0.18">
+    <animate attributeName="opacity" values="0.18;0.4;0.18" dur="5.15s" begin="1.89s" repeatCount="indefinite"/>
+  </line>
+  <line x1="920.1" y1="45.8" x2="998.2" y2="120.3" stroke="#a9b4e8" stroke-width="0.9" opacity="0.21">
+    <animate attributeName="opacity" values="0.21;0.47;0.21" dur="4.13s" begin="1.03s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1084.4" y1="364.9" x2="1092.9" y2="374.4" stroke="#a9b4e8" stroke-width="0.9" opacity="0.22">
+    <animate attributeName="opacity" values="0.22;0.45;0.22" dur="3.72s" begin="0.36s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1084.4" y1="364.9" x2="1119.9" y2="337.7" stroke="#a9b4e8" stroke-width="0.9" opacity="0.18">
+    <animate attributeName="opacity" values="0.18;0.37;0.18" dur="5.81s" begin="0.64s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1084.4" y1="364.9" x2="1048.1" y2="311.4" stroke="#a9b4e8" stroke-width="0.9" opacity="0.21">
+    <animate attributeName="opacity" values="0.21;0.49;0.21" dur="5.93s" begin="1.11s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1084.4" y1="364.9" x2="1153.1" y2="368.8" stroke="#a9b4e8" stroke-width="0.9" opacity="0.21">
+    <animate attributeName="opacity" values="0.21;0.48;0.21" dur="4.48s" begin="1.65s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1092.9" y1="374.4" x2="1119.9" y2="337.7" stroke="#a9b4e8" stroke-width="0.9" opacity="0.15">
+    <animate attributeName="opacity" values="0.15;0.42;0.15" dur="4.78s" begin="1.11s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1092.9" y1="374.4" x2="1048.1" y2="311.4" stroke="#a9b4e8" stroke-width="0.9" opacity="0.2">
+    <animate attributeName="opacity" values="0.2;0.42;0.2" dur="3.74s" begin="0.25s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1092.9" y1="374.4" x2="1153.1" y2="368.8" stroke="#a9b4e8" stroke-width="0.9" opacity="0.22">
+    <animate attributeName="opacity" values="0.22;0.39;0.22" dur="5.56s" begin="0.9s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1119.9" y1="337.7" x2="1048.1" y2="311.4" stroke="#a9b4e8" stroke-width="0.9" opacity="0.15">
+    <animate attributeName="opacity" values="0.15;0.35;0.15" dur="4.14s" begin="1.99s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1119.9" y1="337.7" x2="1153.1" y2="368.8" stroke="#a9b4e8" stroke-width="0.9" opacity="0.17">
+    <animate attributeName="opacity" values="0.17;0.35;0.17" dur="5.67s" begin="2.08s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1048.1" y1="311.4" x2="1153.1" y2="368.8" stroke="#a9b4e8" stroke-width="0.9" opacity="0.18">
+    <animate attributeName="opacity" values="0.18;0.35;0.18" dur="4.57s" begin="2.18s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1326.2" y1="49.0" x2="1295.4" y2="84.8" stroke="#a9b4e8" stroke-width="0.9" opacity="0.23">
+    <animate attributeName="opacity" values="0.23;0.5;0.23" dur="5.63s" begin="1.71s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1326.2" y1="49.0" x2="1231.9" y2="111.7" stroke="#a9b4e8" stroke-width="0.9" opacity="0.22">
+    <animate attributeName="opacity" values="0.22;0.42;0.22" dur="6.24s" begin="1.31s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1326.2" y1="49.0" x2="1250.5" y2="42.5" stroke="#a9b4e8" stroke-width="0.9" opacity="0.23">
+    <animate attributeName="opacity" values="0.23;0.5;0.23" dur="4.45s" begin="1.2s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1326.2" y1="49.0" x2="1296.7" y2="88.1" stroke="#a9b4e8" stroke-width="0.9" opacity="0.18">
+    <animate attributeName="opacity" values="0.18;0.38;0.18" dur="4.24s" begin="1.09s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1326.2" y1="49.0" x2="1274.7" y2="121.7" stroke="#a9b4e8" stroke-width="0.9" opacity="0.16">
+    <animate attributeName="opacity" values="0.16;0.39;0.16" dur="4.69s" begin="1.16s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1295.4" y1="84.8" x2="1231.9" y2="111.7" stroke="#a9b4e8" stroke-width="0.9" opacity="0.22">
+    <animate attributeName="opacity" values="0.22;0.45;0.22" dur="5.89s" begin="1.62s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1295.4" y1="84.8" x2="1250.5" y2="42.5" stroke="#a9b4e8" stroke-width="0.9" opacity="0.23">
+    <animate attributeName="opacity" values="0.23;0.42;0.23" dur="4.03s" begin="2.28s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1295.4" y1="84.8" x2="1296.7" y2="88.1" stroke="#a9b4e8" stroke-width="0.9" opacity="0.19">
+    <animate attributeName="opacity" values="0.19;0.42;0.19" dur="3.57s" begin="1.55s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1295.4" y1="84.8" x2="1274.7" y2="121.7" stroke="#a9b4e8" stroke-width="0.9" opacity="0.22">
+    <animate attributeName="opacity" values="0.22;0.39;0.22" dur="6.4s" begin="1.95s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1231.9" y1="111.7" x2="1250.5" y2="42.5" stroke="#a9b4e8" stroke-width="0.9" opacity="0.15">
+    <animate attributeName="opacity" values="0.15;0.32;0.15" dur="5.14s" begin="2.36s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1231.9" y1="111.7" x2="1296.7" y2="88.1" stroke="#a9b4e8" stroke-width="0.9" opacity="0.15">
+    <animate attributeName="opacity" values="0.15;0.39;0.15" dur="5.71s" begin="2.7s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1231.9" y1="111.7" x2="1274.7" y2="121.7" stroke="#a9b4e8" stroke-width="0.9" opacity="0.2">
+    <animate attributeName="opacity" values="0.2;0.39;0.2" dur="3.93s" begin="2.24s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1250.5" y1="42.5" x2="1296.7" y2="88.1" stroke="#a9b4e8" stroke-width="0.9" opacity="0.19">
+    <animate attributeName="opacity" values="0.19;0.44;0.19" dur="4.16s" begin="2.3s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1250.5" y1="42.5" x2="1274.7" y2="121.7" stroke="#a9b4e8" stroke-width="0.9" opacity="0.24">
+    <animate attributeName="opacity" values="0.24;0.48;0.24" dur="4.68s" begin="1.01s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1296.7" y1="88.1" x2="1274.7" y2="121.7" stroke="#a9b4e8" stroke-width="0.9" opacity="0.21">
+    <animate attributeName="opacity" values="0.21;0.45;0.21" dur="4.98s" begin="1.61s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1429.5" y1="332.5" x2="1342.3" y2="310.0" stroke="#a9b4e8" stroke-width="0.9" opacity="0.22">
+    <animate attributeName="opacity" values="0.22;0.46;0.22" dur="6.24s" begin="1.23s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1429.5" y1="332.5" x2="1425.4" y2="361.9" stroke="#a9b4e8" stroke-width="0.9" opacity="0.22">
+    <animate attributeName="opacity" values="0.22;0.49;0.22" dur="6.06s" begin="2.42s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1429.5" y1="332.5" x2="1329.7" y2="340.4" stroke="#a9b4e8" stroke-width="0.9" opacity="0.19">
+    <animate attributeName="opacity" values="0.19;0.44;0.19" dur="6.37s" begin="1.92s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1342.3" y1="310.0" x2="1425.4" y2="361.9" stroke="#a9b4e8" stroke-width="0.9" opacity="0.18">
+    <animate attributeName="opacity" values="0.18;0.36;0.18" dur="5.91s" begin="1.26s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1342.3" y1="310.0" x2="1329.7" y2="340.4" stroke="#a9b4e8" stroke-width="0.9" opacity="0.18">
+    <animate attributeName="opacity" values="0.18;0.36;0.18" dur="5.72s" begin="2.97s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1425.4" y1="361.9" x2="1329.7" y2="340.4" stroke="#a9b4e8" stroke-width="0.9" opacity="0.17">
+    <animate attributeName="opacity" values="0.17;0.45;0.17" dur="4.11s" begin="1.27s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1552.1" y1="137.2" x2="1468.6" y2="64.2" stroke="#a9b4e8" stroke-width="0.9" opacity="0.15">
+    <animate attributeName="opacity" values="0.15;0.39;0.15" dur="3.68s" begin="0.93s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1552.1" y1="137.2" x2="1551.1" y2="112.7" stroke="#a9b4e8" stroke-width="0.9" opacity="0.15">
+    <animate attributeName="opacity" values="0.15;0.37;0.15" dur="5.83s" begin="0.54s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1552.1" y1="137.2" x2="1532.3" y2="119.1" stroke="#a9b4e8" stroke-width="0.9" opacity="0.14">
+    <animate attributeName="opacity" values="0.14;0.31;0.14" dur="5.25s" begin="2.73s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1552.1" y1="137.2" x2="1462.2" y2="136.1" stroke="#a9b4e8" stroke-width="0.9" opacity="0.16">
+    <animate attributeName="opacity" values="0.16;0.41;0.16" dur="4.05s" begin="0.65s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1468.6" y1="64.2" x2="1551.1" y2="112.7" stroke="#a9b4e8" stroke-width="0.9" opacity="0.16">
+    <animate attributeName="opacity" values="0.16;0.35;0.16" dur="5.28s" begin="0.67s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1468.6" y1="64.2" x2="1532.3" y2="119.1" stroke="#a9b4e8" stroke-width="0.9" opacity="0.17">
+    <animate attributeName="opacity" values="0.17;0.4;0.17" dur="4.02s" begin="2.27s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1468.6" y1="64.2" x2="1462.2" y2="136.1" stroke="#a9b4e8" stroke-width="0.9" opacity="0.17">
+    <animate attributeName="opacity" values="0.17;0.44;0.17" dur="5.95s" begin="1.44s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1551.1" y1="112.7" x2="1532.3" y2="119.1" stroke="#a9b4e8" stroke-width="0.9" opacity="0.19">
+    <animate attributeName="opacity" values="0.19;0.46;0.19" dur="6.24s" begin="1.03s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1551.1" y1="112.7" x2="1462.2" y2="136.1" stroke="#a9b4e8" stroke-width="0.9" opacity="0.14">
+    <animate attributeName="opacity" values="0.14;0.41;0.14" dur="4.95s" begin="0.66s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1532.3" y1="119.1" x2="1462.2" y2="136.1" stroke="#a9b4e8" stroke-width="0.9" opacity="0.19">
+    <animate attributeName="opacity" values="0.19;0.41;0.19" dur="5.9s" begin="1.15s" repeatCount="indefinite"/>
+  </line>
+  <line x1="56.6" y1="351.1" x2="224.7" y2="57.0" stroke="#a9b4e8" stroke-width="0.9" opacity="0.21">
+    <animate attributeName="opacity" values="0.21;0.4;0.21" dur="4.32s" begin="2.97s" repeatCount="indefinite"/>
+  </line>
+  <line x1="255.8" y1="45.6" x2="339.9" y2="109.4" stroke="#a9b4e8" stroke-width="0.9" opacity="0.18">
+    <animate attributeName="opacity" values="0.18;0.44;0.18" dur="3.53s" begin="1.42s" repeatCount="indefinite"/>
+  </line>
+  <line x1="286.7" y1="75.0" x2="521.8" y2="14.5" stroke="#a9b4e8" stroke-width="0.9" opacity="0.16">
+    <animate attributeName="opacity" values="0.16;0.34;0.16" dur="5.64s" begin="1.82s" repeatCount="indefinite"/>
+  </line>
+  <line x1="316.9" y1="105.1" x2="484.4" y2="87.2" stroke="#a9b4e8" stroke-width="0.9" opacity="0.23">
+    <animate attributeName="opacity" values="0.23;0.45;0.23" dur="4.47s" begin="0.78s" repeatCount="indefinite"/>
+  </line>
+  <line x1="390.8" y1="47.4" x2="286.7" y2="75.0" stroke="#a9b4e8" stroke-width="0.9" opacity="0.17">
+    <animate attributeName="opacity" values="0.17;0.39;0.17" dur="5.41s" begin="2.98s" repeatCount="indefinite"/>
+  </line>
+  <line x1="484.4" y1="87.2" x2="620.0" y2="14.8" stroke="#a9b4e8" stroke-width="0.9" opacity="0.14">
+    <animate attributeName="opacity" values="0.14;0.4;0.14" dur="3.95s" begin="2.31s" repeatCount="indefinite"/>
+  </line>
+  <line x1="530.6" y1="86.2" x2="291.6" y2="60.0" stroke="#a9b4e8" stroke-width="0.9" opacity="0.15">
+    <animate attributeName="opacity" values="0.15;0.34;0.15" dur="6.04s" begin="2.47s" repeatCount="indefinite"/>
+  </line>
+  <line x1="620.0" y1="14.8" x2="484.4" y2="87.2" stroke="#a9b4e8" stroke-width="0.9" opacity="0.19">
+    <animate attributeName="opacity" values="0.19;0.41;0.19" dur="5.65s" begin="0.29s" repeatCount="indefinite"/>
+  </line>
+  <line x1="587.8" y1="12.0" x2="381.8" y2="60.9" stroke="#a9b4e8" stroke-width="0.9" opacity="0.23">
+    <animate attributeName="opacity" values="0.23;0.43;0.23" dur="6.37s" begin="1.76s" repeatCount="indefinite"/>
+  </line>
+  <line x1="676.7" y1="388.0" x2="872.4" y2="388.0" stroke="#a9b4e8" stroke-width="0.9" opacity="0.23">
+    <animate attributeName="opacity" values="0.23;0.4;0.23" dur="5.87s" begin="1.25s" repeatCount="indefinite"/>
+  </line>
+  <line x1="858.9" y1="340.9" x2="698.3" y2="339.3" stroke="#a9b4e8" stroke-width="0.9" opacity="0.19">
+    <animate attributeName="opacity" values="0.19;0.41;0.19" dur="5.98s" begin="0.63s" repeatCount="indefinite"/>
+  </line>
+  <line x1="865.7" y1="358.0" x2="1048.1" y2="311.4" stroke="#a9b4e8" stroke-width="0.9" opacity="0.17">
+    <animate attributeName="opacity" values="0.17;0.37;0.17" dur="3.97s" begin="2.5s" repeatCount="indefinite"/>
+  </line>
+  <line x1="998.2" y1="120.3" x2="858.9" y2="340.9" stroke="#a9b4e8" stroke-width="0.9" opacity="0.19">
+    <animate attributeName="opacity" values="0.19;0.44;0.19" dur="3.73s" begin="0.92s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1025.5" y1="92.4" x2="1048.1" y2="311.4" stroke="#a9b4e8" stroke-width="0.9" opacity="0.15">
+    <animate attributeName="opacity" values="0.15;0.36;0.15" dur="4.58s" begin="2.06s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1048.1" y1="311.4" x2="872.4" y2="388.0" stroke="#a9b4e8" stroke-width="0.9" opacity="0.22">
+    <animate attributeName="opacity" values="0.22;0.46;0.22" dur="4.89s" begin="2.9s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1084.4" y1="364.9" x2="1329.7" y2="340.4" stroke="#a9b4e8" stroke-width="0.9" opacity="0.21">
+    <animate attributeName="opacity" values="0.21;0.4;0.21" dur="3.54s" begin="1.13s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1296.7" y1="88.1" x2="1462.2" y2="136.1" stroke="#a9b4e8" stroke-width="0.9" opacity="0.14">
+    <animate attributeName="opacity" values="0.14;0.42;0.14" dur="5.19s" begin="1.37s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1274.7" y1="121.7" x2="1425.4" y2="361.9" stroke="#a9b4e8" stroke-width="0.9" opacity="0.2">
+    <animate attributeName="opacity" values="0.2;0.39;0.2" dur="5.9s" begin="0.62s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1329.7" y1="340.4" x2="1231.9" y2="111.7" stroke="#a9b4e8" stroke-width="0.9" opacity="0.17">
+    <animate attributeName="opacity" values="0.17;0.37;0.17" dur="4.63s" begin="1.62s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1342.3" y1="310.0" x2="1084.4" y2="364.9" stroke="#a9b4e8" stroke-width="0.9" opacity="0.17">
+    <animate attributeName="opacity" values="0.17;0.35;0.17" dur="4.68s" begin="2.0s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1552.1" y1="137.2" x2="1295.4" y2="84.8" stroke="#a9b4e8" stroke-width="0.9" opacity="0.23">
+    <animate attributeName="opacity" values="0.23;0.46;0.23" dur="5.69s" begin="0.99s" repeatCount="indefinite"/>
+  </line>
+  <line x1="1468.6" y1="64.2" x2="1329.7" y2="340.4" stroke="#a9b4e8" stroke-width="0.9" opacity="0.22">
+    <animate attributeName="opacity" values="0.22;0.39;0.22" dur="5.67s" begin="0.99s" repeatCount="indefinite"/>
+  </line>
+  <g transform="translate(56.6,351.1)">
+    <circle r="4.5" fill="#f472b6" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 2.5,2.9; -4.5,-1.4; 0,0" dur="4.56s" begin="0.38s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="4.5;5.9;4.5" dur="2.74s" begin="0.38s" repeatCount="indefinite"/>
     </circle>
   </g>
-  <g transform="translate(596.6,66.7)">
-    <circle r="2.8" fill="#4ade80" filter="url(#glow)">
-      <animateTransform attributeName="transform" type="translate" values="0,0; 5.8,-4.2; 2.7,1.7; 0,0" dur="5.56s" begin="1.3s" repeatCount="indefinite"/>
-      <animate attributeName="r" values="2.8;3.9;2.8" dur="3.34s" begin="1.3s" repeatCount="indefinite"/>
+  <g transform="translate(64.4,330.8)">
+    <circle r="4.3" fill="#f472b6" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -5.7,-3.8; -4.8,-5.3; 0,0" dur="7.35s" begin="2.37s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="4.3;5.5;4.3" dur="4.41s" begin="2.37s" repeatCount="indefinite"/>
     </circle>
   </g>
-  <g transform="translate(479.1,54.3)">
-    <circle r="2.3" fill="#60a5fa" filter="url(#glow)">
-      <animateTransform attributeName="transform" type="translate" values="0,0; 4.7,1.5; 2.8,3.7; 0,0" dur="4.18s" begin="3.34s" repeatCount="indefinite"/>
-      <animate attributeName="r" values="2.3;3.2;2.3" dur="2.51s" begin="3.34s" repeatCount="indefinite"/>
+  <g transform="translate(37.3,282.3)">
+    <circle r="5.8" fill="#38bdf8" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 5.9,-1.0; 0.2,2.1; 0,0" dur="5.63s" begin="0.29s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="5.8;7.5;5.8" dur="3.38s" begin="0.29s" repeatCount="indefinite"/>
     </circle>
   </g>
-  <g transform="translate(907.7,323.9)">
-    <circle r="2.3" fill="#f472b6" filter="url(#glow)">
-      <animateTransform attributeName="transform" type="translate" values="0,0; 0.1,4.0; 3.7,3.9; 0,0" dur="4.56s" begin="2.1s" repeatCount="indefinite"/>
-      <animate attributeName="r" values="2.3;3.2;2.3" dur="2.74s" begin="2.1s" repeatCount="indefinite"/>
+  <g transform="translate(75.3,309.8)">
+    <circle r="5.8" fill="#60a5fa" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -1.6,-2.4; -1.2,-6.8; 0,0" dur="7.07s" begin="3.28s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="5.8;7.6;5.8" dur="4.24s" begin="3.28s" repeatCount="indefinite"/>
     </circle>
   </g>
-  <g transform="translate(947.1,313.2)">
-    <circle r="3.0" fill="#f472b6" filter="url(#glow)">
-      <animateTransform attributeName="transform" type="translate" values="0,0; 2.2,2.3; -3.2,-5.6; 0,0" dur="6.34s" begin="3.57s" repeatCount="indefinite"/>
-      <animate attributeName="r" values="3.0;4.1;3.0" dur="3.80s" begin="3.57s" repeatCount="indefinite"/>
+  <g transform="translate(77.9,288.3)">
+    <circle r="6.3" fill="#4ade80" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 6.7,4.1; 2.2,1.5; 0,0" dur="5.6s" begin="2.8s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="6.3;8.2;6.3" dur="3.36s" begin="2.8s" repeatCount="indefinite"/>
     </circle>
   </g>
-  <g transform="translate(906.8,340.3)">
-    <circle r="2.3" fill="#f472b6" filter="url(#glow)">
-      <animateTransform attributeName="transform" type="translate" values="0,0; -4.7,4.0; 0.7,1.5; 0,0" dur="4.53s" begin="1.44s" repeatCount="indefinite"/>
-      <animate attributeName="r" values="2.3;3.3;2.3" dur="2.72s" begin="1.44s" repeatCount="indefinite"/>
+  <g transform="translate(12.0,277.3)">
+    <circle r="5.7" fill="#f472b6" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -2.2,2.1; -5.5,-1.7; 0,0" dur="4.07s" begin="1.32s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="5.7;7.4;5.7" dur="2.44s" begin="1.32s" repeatCount="indefinite"/>
     </circle>
   </g>
-  <g transform="translate(912.1,62.6)">
-    <circle r="3.1" fill="#4ade80" filter="url(#glow)">
-      <animateTransform attributeName="transform" type="translate" values="0,0; -0.1,-6.0; 3.6,3.0; 0,0" dur="6.5s" begin="2.72s" repeatCount="indefinite"/>
-      <animate attributeName="r" values="3.1;4.3;3.1" dur="3.90s" begin="2.72s" repeatCount="indefinite"/>
+  <g transform="translate(224.7,57.0)">
+    <circle r="4.0" fill="#60a5fa" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 4.6,1.6; -4.8,3.7; 0,0" dur="6.04s" begin="3.15s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="4.0;5.2;4.0" dur="3.62s" begin="3.15s" repeatCount="indefinite"/>
     </circle>
   </g>
-  <g transform="translate(904.9,109.5)">
-    <circle r="2.9" fill="#a78bfa" filter="url(#glow)">
-      <animateTransform attributeName="transform" type="translate" values="0,0; 1.9,-5.2; 2.8,-3.0; 0,0" dur="6.01s" begin="2.14s" repeatCount="indefinite"/>
-      <animate attributeName="r" values="2.9;4.0;2.9" dur="3.61s" begin="2.14s" repeatCount="indefinite"/>
+  <g transform="translate(168.3,58.3)">
+    <circle r="6.8" fill="#60a5fa" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -2.1,0.0; -5.0,3.0; 0,0" dur="7.61s" begin="2.19s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="6.8;8.8;6.8" dur="4.57s" begin="2.19s" repeatCount="indefinite"/>
     </circle>
   </g>
-  <g transform="translate(964.7,92.5)">
-    <circle r="3.3" fill="#f472b6" filter="url(#glow)">
-      <animateTransform attributeName="transform" type="translate" values="0,0; 2.8,-3.5; 2.9,5.7; 0,0" dur="4.3s" begin="1.06s" repeatCount="indefinite"/>
-      <animate attributeName="r" values="3.3;4.6;3.3" dur="2.58s" begin="1.06s" repeatCount="indefinite"/>
+  <g transform="translate(286.7,75.0)">
+    <circle r="4.7" fill="#38bdf8" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 3.0,4.7; -4.2,6.2; 0,0" dur="7.95s" begin="2.06s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="4.7;6.1;4.7" dur="4.77s" begin="2.06s" repeatCount="indefinite"/>
     </circle>
   </g>
-  <g transform="translate(1098.0,70.7)">
-    <circle r="2.6" fill="#60a5fa" filter="url(#glow)">
-      <animateTransform attributeName="transform" type="translate" values="0,0; -0.3,2.2; 3.2,1.4; 0,0" dur="5.98s" begin="1.53s" repeatCount="indefinite"/>
-      <animate attributeName="r" values="2.6;3.6;2.6" dur="3.59s" begin="1.53s" repeatCount="indefinite"/>
+  <g transform="translate(255.8,45.6)">
+    <circle r="4.2" fill="#4ade80" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -5.8,-3.6; 1.1,2.8; 0,0" dur="6.51s" begin="0.79s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="4.2;5.5;4.2" dur="3.91s" begin="0.79s" repeatCount="indefinite"/>
     </circle>
   </g>
-  <g transform="translate(1161.7,10.0)">
-    <circle r="2.4" fill="#60a5fa" filter="url(#glow)">
-      <animateTransform attributeName="transform" type="translate" values="0,0; -4.2,-3.0; 2.9,-2.3; 0,0" dur="6.57s" begin="0.31s" repeatCount="indefinite"/>
-      <animate attributeName="r" values="2.4;3.4;2.4" dur="3.94s" begin="0.31s" repeatCount="indefinite"/>
+  <g transform="translate(339.9,109.4)">
+    <circle r="4.0" fill="#38bdf8" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -1.9,-0.5; -5.3,6.6; 0,0" dur="5.32s" begin="3.72s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="4.0;5.2;4.0" dur="3.19s" begin="3.72s" repeatCount="indefinite"/>
     </circle>
   </g>
-  <g transform="translate(1072.4,76.6)">
-    <circle r="2.3" fill="#60a5fa" filter="url(#glow)">
-      <animateTransform attributeName="transform" type="translate" values="0,0; -5.3,-2.8; 2.1,2.3; 0,0" dur="6.27s" begin="0.05s" repeatCount="indefinite"/>
-      <animate attributeName="r" values="2.3;3.2;2.3" dur="3.76s" begin="0.05s" repeatCount="indefinite"/>
+  <g transform="translate(316.9,105.1)">
+    <circle r="5.1" fill="#60a5fa" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0.6,0.9; 0.8,-3.3; 0,0" dur="4.54s" begin="3.62s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="5.1;6.6;5.1" dur="2.72s" begin="3.62s" repeatCount="indefinite"/>
     </circle>
   </g>
-  <g transform="translate(1118.1,59.7)">
-    <circle r="2.7" fill="#a78bfa" filter="url(#glow)">
-      <animateTransform attributeName="transform" type="translate" values="0,0; 0.2,-0.4; -0.4,-4.6; 0,0" dur="6.7s" begin="1.16s" repeatCount="indefinite"/>
-      <animate attributeName="r" values="2.7;3.7;2.7" dur="4.02s" begin="1.16s" repeatCount="indefinite"/>
+  <g transform="translate(381.8,60.9)">
+    <circle r="5.8" fill="#fbbf24" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 4.4,1.4; -5.3,4.5; 0,0" dur="7.64s" begin="3.97s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="5.8;7.5;5.8" dur="4.58s" begin="3.97s" repeatCount="indefinite"/>
     </circle>
   </g>
-  <g transform="translate(1073.5,32.9)">
-    <circle r="2.3" fill="#60a5fa" filter="url(#glow)">
-      <animateTransform attributeName="transform" type="translate" values="0,0; 5.7,5.2; -5.8,-0.5; 0,0" dur="7.57s" begin="0.8s" repeatCount="indefinite"/>
-      <animate attributeName="r" values="2.3;3.2;2.3" dur="4.54s" begin="0.8s" repeatCount="indefinite"/>
+  <g transform="translate(390.8,47.4)">
+    <circle r="4.9" fill="#4ade80" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -3.6,1.0; 4.6,-4.4; 0,0" dur="5.15s" begin="3.59s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="4.9;6.3;4.9" dur="3.09s" begin="3.59s" repeatCount="indefinite"/>
     </circle>
   </g>
-  <g transform="translate(137.0,61.1)">
-    <circle r="2.6" fill="#60a5fa" filter="url(#glow)">
-      <animateTransform attributeName="transform" type="translate" values="0,0; -0.6,-2.8; -3.5,5.3; 0,0" dur="7.28s" begin="3.87s" repeatCount="indefinite"/>
-      <animate attributeName="r" values="2.6;3.6;2.6" dur="4.37s" begin="3.87s" repeatCount="indefinite"/>
+  <g transform="translate(291.6,60.0)">
+    <circle r="4.4" fill="#4ade80" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -6.6,-4.5; 6.8,6.2; 0,0" dur="6.19s" begin="0.31s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="4.4;5.7;4.4" dur="3.71s" begin="0.31s" repeatCount="indefinite"/>
     </circle>
   </g>
-  <g transform="translate(182.5,57.8)">
-    <circle r="3.5" fill="#4ade80" filter="url(#glow)">
-      <animateTransform attributeName="transform" type="translate" values="0,0; -4.3,0.3; 5.4,-4.4; 0,0" dur="4.84s" begin="2.33s" repeatCount="indefinite"/>
-      <animate attributeName="r" values="3.5;4.9;3.5" dur="2.90s" begin="2.33s" repeatCount="indefinite"/>
+  <g transform="translate(521.8,14.5)">
+    <circle r="4.5" fill="#fbbf24" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 2.4,3.3; -1.7,1.3; 0,0" dur="6.63s" begin="1.23s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="4.5;5.9;4.5" dur="3.98s" begin="1.23s" repeatCount="indefinite"/>
     </circle>
   </g>
-  <g transform="translate(178.3,52.1)">
-    <circle r="2.3" fill="#60a5fa" filter="url(#glow)">
-      <animateTransform attributeName="transform" type="translate" values="0,0; 4.6,2.4; -3.2,4.8; 0,0" dur="7.28s" begin="2.03s" repeatCount="indefinite"/>
-      <animate attributeName="r" values="2.3;3.2;2.3" dur="4.37s" begin="2.03s" repeatCount="indefinite"/>
+  <g transform="translate(484.4,87.2)">
+    <circle r="5.2" fill="#f472b6" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -4.2,-0.4; -5.0,-1.6; 0,0" dur="7.22s" begin="0.07s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="5.2;6.7;5.2" dur="4.33s" begin="0.07s" repeatCount="indefinite"/>
     </circle>
   </g>
-  <g transform="translate(1182.7,130.5)">
-    <circle r="2.3" fill="#60a5fa" filter="url(#glow)">
-      <animateTransform attributeName="transform" type="translate" values="0,0; -6.0,-0.1; -0.6,-2.4; 0,0" dur="5.94s" begin="0.1s" repeatCount="indefinite"/>
-      <animate attributeName="r" values="2.3;3.2;2.3" dur="3.56s" begin="0.1s" repeatCount="indefinite"/>
+  <g transform="translate(468.1,34.0)">
+    <circle r="4.0" fill="#f472b6" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0.3,-3.3; 1.0,-2.4; 0,0" dur="6.28s" begin="0.69s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="4.0;5.2;4.0" dur="3.77s" begin="0.69s" repeatCount="indefinite"/>
     </circle>
   </g>
-  <g transform="translate(1189.9,93.7)">
-    <circle r="3.3" fill="#f472b6" filter="url(#glow)">
-      <animateTransform attributeName="transform" type="translate" values="0,0; -2.2,4.1; -6.0,3.0; 0,0" dur="4.56s" begin="1.38s" repeatCount="indefinite"/>
-      <animate attributeName="r" values="3.3;4.7;3.3" dur="2.74s" begin="1.38s" repeatCount="indefinite"/>
+  <g transform="translate(530.6,86.2)">
+    <circle r="4.9" fill="#fbbf24" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 2.4,-5.0; 6.4,1.4; 0,0" dur="6.57s" begin="0.15s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="4.9;6.3;4.9" dur="3.94s" begin="0.15s" repeatCount="indefinite"/>
     </circle>
   </g>
-  <g transform="translate(1247.9,66.6)">
-    <circle r="3.6" fill="#60a5fa" filter="url(#glow)">
-      <animateTransform attributeName="transform" type="translate" values="0,0; 5.1,2.6; 4.8,-2.5; 0,0" dur="7.36s" begin="0.48s" repeatCount="indefinite"/>
-      <animate attributeName="r" values="3.6;5.0;3.6" dur="4.42s" begin="0.48s" repeatCount="indefinite"/>
+  <g transform="translate(533.3,17.5)">
+    <circle r="6.8" fill="#60a5fa" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 1.7,2.7; 3.6,3.5; 0,0" dur="5.88s" begin="1.65s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="6.8;8.8;6.8" dur="3.53s" begin="1.65s" repeatCount="indefinite"/>
     </circle>
   </g>
-  <g transform="translate(1222.6,76.8)">
-    <circle r="2.4" fill="#f472b6" filter="url(#glow)">
-      <animateTransform attributeName="transform" type="translate" values="0,0; 6.0,1.1; -1.7,-0.9; 0,0" dur="5.49s" begin="1.57s" repeatCount="indefinite"/>
-      <animate attributeName="r" values="2.4;3.4;2.4" dur="3.29s" begin="1.57s" repeatCount="indefinite"/>
+  <g transform="translate(496.5,50.4)">
+    <circle r="6.8" fill="#4ade80" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 4.7,5.0; -1.3,-0.9; 0,0" dur="5.94s" begin="3.98s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="6.8;8.8;6.8" dur="3.56s" begin="3.98s" repeatCount="indefinite"/>
     </circle>
   </g>
-  <g transform="translate(252.5,152.7)">
-    <circle r="2.6" fill="#f472b6" filter="url(#glow)">
-      <animateTransform attributeName="transform" type="translate" values="0,0; -4.8,4.0; -2.6,5.2; 0,0" dur="5.1s" begin="0.19s" repeatCount="indefinite"/>
-      <animate attributeName="r" values="2.6;3.6;2.6" dur="3.06s" begin="0.19s" repeatCount="indefinite"/>
+  <g transform="translate(620.0,14.8)">
+    <circle r="4.3" fill="#4ade80" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0.4,0.4; -0.9,5.7; 0,0" dur="6.26s" begin="3.62s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="4.3;5.5;4.3" dur="3.76s" begin="3.62s" repeatCount="indefinite"/>
     </circle>
   </g>
-  <g transform="translate(251.4,111.5)">
-    <circle r="3.1" fill="#a78bfa" filter="url(#glow)">
-      <animateTransform attributeName="transform" type="translate" values="0,0; 0.1,-3.7; -1.5,5.5; 0,0" dur="5.0s" begin="1.06s" repeatCount="indefinite"/>
-      <animate attributeName="r" values="3.1;4.3;3.1" dur="3.00s" begin="1.06s" repeatCount="indefinite"/>
+  <g transform="translate(587.8,12.0)">
+    <circle r="5.0" fill="#fbbf24" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 3.2,5.6; 3.2,1.4; 0,0" dur="5.28s" begin="0.22s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="5.0;6.5;5.0" dur="3.17s" begin="0.22s" repeatCount="indefinite"/>
     </circle>
   </g>
-  <g transform="translate(295.4,82.1)">
-    <circle r="2.8" fill="#4ade80" filter="url(#glow)">
-      <animateTransform attributeName="transform" type="translate" values="0,0; 1.6,5.0; 5.3,0.6; 0,0" dur="7.54s" begin="3.25s" repeatCount="indefinite"/>
-      <animate attributeName="r" values="2.8;4.0;2.8" dur="4.52s" begin="3.25s" repeatCount="indefinite"/>
+  <g transform="translate(592.9,12.0)">
+    <circle r="5.4" fill="#fbbf24" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 1.3,-6.0; -5.3,-0.7; 0,0" dur="7.01s" begin="1.22s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="5.4;7.0;5.4" dur="4.21s" begin="1.22s" repeatCount="indefinite"/>
     </circle>
   </g>
-  <g transform="translate(372.7,164.8)">
-    <circle r="2.8" fill="#60a5fa" filter="url(#glow)">
-      <animateTransform attributeName="transform" type="translate" values="0,0; 2.8,-0.6; 3.0,1.7; 0,0" dur="6.88s" begin="0.2s" repeatCount="indefinite"/>
-      <animate attributeName="r" values="2.8;3.9;2.8" dur="4.13s" begin="0.2s" repeatCount="indefinite"/>
+  <g transform="translate(586.8,58.0)">
+    <circle r="5.8" fill="#f472b6" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -6.3,2.7; 0.4,-3.7; 0,0" dur="6.01s" begin="1.59s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="5.8;7.5;5.8" dur="3.61s" begin="1.59s" repeatCount="indefinite"/>
     </circle>
   </g>
-  <g transform="translate(582.0,61.2)">
-    <circle r="2.8" fill="#f472b6" filter="url(#glow)">
-      <animateTransform attributeName="transform" type="translate" values="0,0; 5.1,-4.5; -0.3,-1.9; 0,0" dur="5.14s" begin="0.2s" repeatCount="indefinite"/>
-      <animate attributeName="r" values="2.8;3.9;2.8" dur="3.08s" begin="0.2s" repeatCount="indefinite"/>
+  <g transform="translate(552.5,12.0)">
+    <circle r="4.7" fill="#fbbf24" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -3.7,-6.0; 5.8,6.5; 0,0" dur="5.23s" begin="1.58s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="4.7;6.1;4.7" dur="3.14s" begin="1.58s" repeatCount="indefinite"/>
     </circle>
   </g>
-  <g transform="translate(588.7,114.5)">
-    <circle r="2.2" fill="#4ade80" filter="url(#glow)">
-      <animateTransform attributeName="transform" type="translate" values="0,0; 5.7,-2.9; 1.9,-2.4; 0,0" dur="5.19s" begin="2.96s" repeatCount="indefinite"/>
-      <animate attributeName="r" values="2.2;3.1;2.2" dur="3.11s" begin="2.96s" repeatCount="indefinite"/>
+  <g transform="translate(732.8,364.9)">
+    <circle r="5.7" fill="#60a5fa" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -1.1,4.3; -3.9,3.5; 0,0" dur="6.66s" begin="3.47s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="5.7;7.4;5.7" dur="4.00s" begin="3.47s" repeatCount="indefinite"/>
     </circle>
   </g>
-  <g transform="translate(594.5,64.6)">
-    <circle r="3.1" fill="#a78bfa" filter="url(#glow)">
-      <animateTransform attributeName="transform" type="translate" values="0,0; -4.0,-4.1; -3.5,4.9; 0,0" dur="6.23s" begin="1.58s" repeatCount="indefinite"/>
-      <animate attributeName="r" values="3.1;4.3;3.1" dur="3.74s" begin="1.58s" repeatCount="indefinite"/>
+  <g transform="translate(698.3,339.3)">
+    <circle r="5.4" fill="#4ade80" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -5.6,4.1; -5.3,0.5; 0,0" dur="6.27s" begin="3.61s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="5.4;7.1;5.4" dur="3.76s" begin="3.61s" repeatCount="indefinite"/>
     </circle>
   </g>
-  <g transform="translate(583.1,75.3)">
-    <circle r="2.4" fill="#60a5fa" filter="url(#glow)">
-      <animateTransform attributeName="transform" type="translate" values="0,0; 4.9,6.0; -0.6,-4.3; 0,0" dur="5.99s" begin="0.88s" repeatCount="indefinite"/>
-      <animate attributeName="r" values="2.4;3.4;2.4" dur="3.59s" begin="0.88s" repeatCount="indefinite"/>
+  <g transform="translate(676.7,388.0)">
+    <circle r="4.7" fill="#60a5fa" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -3.6,-2.8; -2.5,-6.1; 0,0" dur="7.8s" begin="0.0s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="4.7;6.1;4.7" dur="4.68s" begin="0.0s" repeatCount="indefinite"/>
     </circle>
   </g>
-  <g transform="translate(608.6,89.2)">
-    <circle r="2.9" fill="#a78bfa" filter="url(#glow)">
-      <animateTransform attributeName="transform" type="translate" values="0,0; -1.9,-4.9; -3.1,-2.9; 0,0" dur="4.77s" begin="0.36s" repeatCount="indefinite"/>
-      <animate attributeName="r" values="2.9;4.0;2.9" dur="2.86s" begin="0.36s" repeatCount="indefinite"/>
+  <g transform="translate(750.6,383.7)">
+    <circle r="5.5" fill="#a78bfa" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -1.4,-2.0; 1.2,-6.4; 0,0" dur="7.58s" begin="3.26s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="5.5;7.1;5.5" dur="4.55s" begin="3.26s" repeatCount="indefinite"/>
     </circle>
   </g>
-  <g transform="translate(589.4,103.3)">
-    <circle r="2.9" fill="#60a5fa" filter="url(#glow)">
-      <animateTransform attributeName="transform" type="translate" values="0,0; 3.0,-1.0; -1.0,0.3; 0,0" dur="6.28s" begin="3.55s" repeatCount="indefinite"/>
-      <animate attributeName="r" values="2.9;4.0;2.9" dur="3.77s" begin="3.55s" repeatCount="indefinite"/>
+  <g transform="translate(865.7,358.0)">
+    <circle r="5.7" fill="#fbbf24" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -2.7,-0.0; 6.1,6.7; 0,0" dur="4.12s" begin="3.59s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="5.7;7.4;5.7" dur="2.47s" begin="3.59s" repeatCount="indefinite"/>
     </circle>
   </g>
-  <g transform="translate(555.2,91.1)">
-    <circle r="2.9" fill="#f472b6" filter="url(#glow)">
-      <animateTransform attributeName="transform" type="translate" values="0,0; -5.3,-2.7; 5.6,-4.5; 0,0" dur="5.51s" begin="1.35s" repeatCount="indefinite"/>
-      <animate attributeName="r" values="2.9;4.1;2.9" dur="3.31s" begin="1.35s" repeatCount="indefinite"/>
+  <g transform="translate(872.4,388.0)">
+    <circle r="6.1" fill="#f472b6" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -2.9,5.9; 5.6,-4.3; 0,0" dur="5.89s" begin="0.83s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="6.1;7.9;6.1" dur="3.53s" begin="0.83s" repeatCount="indefinite"/>
     </circle>
   </g>
-  <g transform="translate(480.3,138.4)">
-    <circle r="2.4" fill="#a78bfa" filter="url(#glow)">
-      <animateTransform attributeName="transform" type="translate" values="0,0; 4.4,-3.4; -2.7,-3.0; 0,0" dur="6.01s" begin="2.52s" repeatCount="indefinite"/>
-      <animate attributeName="r" values="2.4;3.4;2.4" dur="3.61s" begin="2.52s" repeatCount="indefinite"/>
+  <g transform="translate(845.0,344.7)">
+    <circle r="4.2" fill="#f472b6" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -0.4,-4.6; 5.3,6.9; 0,0" dur="7.35s" begin="1.42s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="4.2;5.4;4.2" dur="4.41s" begin="1.42s" repeatCount="indefinite"/>
     </circle>
   </g>
-  <g transform="translate(527.6,45.9)">
-    <circle r="3.6" fill="#a78bfa" filter="url(#glow)">
-      <animateTransform attributeName="transform" type="translate" values="0,0; 5.4,4.2; 4.5,-5.7; 0,0" dur="5.6s" begin="1.78s" repeatCount="indefinite"/>
-      <animate attributeName="r" values="3.6;5.0;3.6" dur="3.36s" begin="1.78s" repeatCount="indefinite"/>
+  <g transform="translate(858.9,340.9)">
+    <circle r="6.7" fill="#fbbf24" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -4.3,5.3; -6.3,-5.5; 0,0" dur="4.81s" begin="2.53s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="6.7;8.7;6.7" dur="2.89s" begin="2.53s" repeatCount="indefinite"/>
     </circle>
   </g>
-  <g transform="translate(572.4,112.9)">
-    <circle r="2.9" fill="#a78bfa" filter="url(#glow)">
-      <animateTransform attributeName="transform" type="translate" values="0,0; 4.7,-0.3; 1.0,-6.0; 0,0" dur="4.13s" begin="2.84s" repeatCount="indefinite"/>
-      <animate attributeName="r" values="2.9;4.1;2.9" dur="2.48s" begin="2.84s" repeatCount="indefinite"/>
+  <g transform="translate(1029.8,98.4)">
+    <circle r="5.5" fill="#38bdf8" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 5.6,5.2; 3.0,-5.1; 0,0" dur="6.9s" begin="1.25s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="5.5;7.1;5.5" dur="4.14s" begin="1.25s" repeatCount="indefinite"/>
     </circle>
   </g>
-  <g transform="translate(578.7,78.8)">
-    <circle r="2.9" fill="#f472b6" filter="url(#glow)">
-      <animateTransform attributeName="transform" type="translate" values="0,0; 3.9,4.3; 5.7,-3.0; 0,0" dur="5.57s" begin="3.71s" repeatCount="indefinite"/>
-      <animate attributeName="r" values="2.9;4.1;2.9" dur="3.34s" begin="3.71s" repeatCount="indefinite"/>
+  <g transform="translate(1025.5,92.4)">
+    <circle r="5.3" fill="#4ade80" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -0.8,-5.9; -3.9,-2.7; 0,0" dur="6.78s" begin="3.75s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="5.3;6.9;5.3" dur="4.07s" begin="3.75s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g transform="translate(948.8,67.4)">
+    <circle r="4.1" fill="#4ade80" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -4.5,-3.7; 2.3,4.1; 0,0" dur="6.84s" begin="0.79s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="4.1;5.3;4.1" dur="4.10s" begin="0.79s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g transform="translate(985.1,82.7)">
+    <circle r="4.9" fill="#38bdf8" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 5.4,1.3; -3.8,-2.8; 0,0" dur="5.49s" begin="2.65s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="4.9;6.3;4.9" dur="3.29s" begin="2.65s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g transform="translate(920.1,45.8)">
+    <circle r="5.5" fill="#60a5fa" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -3.1,2.0; -5.7,6.8; 0,0" dur="7.71s" begin="2.67s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="5.5;7.2;5.5" dur="4.63s" begin="2.67s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g transform="translate(998.2,120.3)">
+    <circle r="6.1" fill="#38bdf8" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0.4,-6.4; 1.4,-3.0; 0,0" dur="5.76s" begin="2.11s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="6.1;7.9;6.1" dur="3.46s" begin="2.11s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g transform="translate(1084.4,364.9)">
+    <circle r="6.4" fill="#4ade80" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -5.8,-3.0; 3.6,-3.6; 0,0" dur="5.0s" begin="3.21s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="6.4;8.4;6.4" dur="3.00s" begin="3.21s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g transform="translate(1092.9,374.4)">
+    <circle r="5.6" fill="#60a5fa" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -4.4,5.6; 6.8,-6.5; 0,0" dur="5.12s" begin="2.19s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="5.6;7.3;5.6" dur="3.07s" begin="2.19s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g transform="translate(1119.9,337.7)">
+    <circle r="4.0" fill="#fbbf24" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -1.6,6.0; -0.0,-4.5; 0,0" dur="5.85s" begin="3.0s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="4.0;5.2;4.0" dur="3.51s" begin="3.0s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g transform="translate(1048.1,311.4)">
+    <circle r="6.8" fill="#4ade80" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -2.0,2.2; 4.0,0.2; 0,0" dur="6.22s" begin="2.58s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="6.8;8.8;6.8" dur="3.73s" begin="2.58s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g transform="translate(1153.1,368.8)">
+    <circle r="6.6" fill="#60a5fa" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 2.6,0.3; 6.3,-4.6; 0,0" dur="6.02s" begin="3.38s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="6.6;8.6;6.6" dur="3.61s" begin="3.38s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g transform="translate(1326.2,49.0)">
+    <circle r="4.1" fill="#fbbf24" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 1.5,-3.7; -0.8,3.8; 0,0" dur="7.12s" begin="0.66s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="4.1;5.3;4.1" dur="4.27s" begin="0.66s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g transform="translate(1295.4,84.8)">
+    <circle r="6.7" fill="#f472b6" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -3.7,-0.2; -3.9,1.1; 0,0" dur="7.15s" begin="3.16s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="6.7;8.7;6.7" dur="4.29s" begin="3.16s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g transform="translate(1231.9,111.7)">
+    <circle r="6.6" fill="#38bdf8" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 1.4,3.0; 1.0,5.2; 0,0" dur="6.0s" begin="0.14s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="6.6;8.6;6.6" dur="3.60s" begin="0.14s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g transform="translate(1250.5,42.5)">
+    <circle r="4.4" fill="#a78bfa" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -6.8,-0.1; -0.9,-0.8; 0,0" dur="4.72s" begin="0.61s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="4.4;5.7;4.4" dur="2.83s" begin="0.61s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g transform="translate(1296.7,88.1)">
+    <circle r="5.8" fill="#a78bfa" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -6.0,5.7; 1.0,0.6; 0,0" dur="5.05s" begin="3.19s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="5.8;7.6;5.8" dur="3.03s" begin="3.19s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g transform="translate(1274.7,121.7)">
+    <circle r="5.1" fill="#a78bfa" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -5.0,-2.6; -6.4,-2.6; 0,0" dur="7.17s" begin="0.95s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="5.1;6.7;5.1" dur="4.30s" begin="0.95s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g transform="translate(1429.5,332.5)">
+    <circle r="6.6" fill="#fbbf24" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -3.3,1.2; -5.8,4.5; 0,0" dur="6.48s" begin="2.1s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="6.6;8.6;6.6" dur="3.89s" begin="2.1s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g transform="translate(1342.3,310.0)">
+    <circle r="6.3" fill="#a78bfa" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -4.8,2.7; 4.6,4.0; 0,0" dur="4.69s" begin="1.02s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="6.3;8.2;6.3" dur="2.81s" begin="1.02s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g transform="translate(1425.4,361.9)">
+    <circle r="6.3" fill="#a78bfa" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -1.9,-4.0; 6.6,-6.4; 0,0" dur="4.24s" begin="1.64s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="6.3;8.2;6.3" dur="2.54s" begin="1.64s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g transform="translate(1329.7,340.4)">
+    <circle r="6.3" fill="#f472b6" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 6.8,-5.0; -0.6,3.4; 0,0" dur="5.96s" begin="3.05s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="6.3;8.2;6.3" dur="3.58s" begin="3.05s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g transform="translate(1552.1,137.2)">
+    <circle r="5.3" fill="#fbbf24" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 5.5,-5.0; -1.5,-2.8; 0,0" dur="4.16s" begin="0.96s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="5.3;6.8;5.3" dur="2.50s" begin="0.96s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g transform="translate(1468.6,64.2)">
+    <circle r="4.1" fill="#fbbf24" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -6.5,6.9; 3.7,3.3; 0,0" dur="5.7s" begin="0.31s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="4.1;5.4;4.1" dur="3.42s" begin="0.31s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g transform="translate(1551.1,112.7)">
+    <circle r="5.8" fill="#a78bfa" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0.7,-3.6; -0.5,6.1; 0,0" dur="4.92s" begin="1.01s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="5.8;7.6;5.8" dur="2.95s" begin="1.01s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g transform="translate(1532.3,119.1)">
+    <circle r="5.3" fill="#60a5fa" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 6.7,1.6; -6.4,-1.4; 0,0" dur="5.46s" begin="1.35s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="5.3;6.9;5.3" dur="3.28s" begin="1.35s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g transform="translate(1462.2,136.1)">
+    <circle r="6.2" fill="#f472b6" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -2.2,2.7; 5.1,1.3; 0,0" dur="6.6s" begin="0.23s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="6.2;8.0;6.2" dur="3.96s" begin="0.23s" repeatCount="indefinite"/>
     </circle>
   </g>
 
